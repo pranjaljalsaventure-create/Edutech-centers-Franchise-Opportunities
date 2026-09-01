@@ -30,7 +30,7 @@ Entrepreneurs planning an edutech center should consider:
 
 ## Learning Philosophy
 
-Effective technology education should encourage students to explore, experiment, build, test, and improve.
+Effective <a href="https://scilindia.org/course">technology education </a> should encourage students to explore, experiment, build, test, and improve.
 
 ## Note
 
